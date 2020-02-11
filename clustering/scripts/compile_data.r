@@ -1,4 +1,4 @@
-source("~/Documents/Github/scClustering/umitab_utils.r")
+source("D:/JM-crohn/martin_et_al_cell_2019/clustering/scripts/umitab_utils.r")
 
 
 # compile data
